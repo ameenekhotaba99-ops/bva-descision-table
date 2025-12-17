@@ -42,7 +42,7 @@ public class BVA_b {
 	@Test
     void testBIsOne_shouldReturnMinimum() {
     // arrange
-    int a = 60;    // ערך גבול תקין
+    int a = 60;    
     int b = 1;
     int c = 60;
     int d = 60;
@@ -58,7 +58,7 @@ public class BVA_b {
     @Test
     void testBIs2_shouldReturnMinimum() {
     // arrange
-    int a = 60;    // ערך גבול תקין
+    int a = 60;    
     int b = 2;
     int c = 60;
     int d = 60;
@@ -73,7 +73,7 @@ public class BVA_b {
     @Test
     void testBIsnominal_shouldReturnMinimum() {
     // arrange
-    int a = 60;    // ערך גבול תקין
+    int a = 60;    
     int b = 60;
     int c = 60;
     int d = 60;
@@ -90,7 +90,7 @@ public class BVA_b {
     @Test
     void testBIsmaxmenos1_shouldReturnMinimum() {
     // arrange
-    int a = 60;    // ערך גבול תקין
+    int a = 60;    
     int b = 999;
     int c = 60;
     int d = 60;
@@ -105,7 +105,7 @@ public class BVA_b {
     @Test
     void testBIsMax_shouldReturnMinimum() {
     // arrange
-    int a = 60;    // ערך גבול תקין
+    int a = 60;    
     int b = 1000;
     int c = 60;
     int d = 60;
